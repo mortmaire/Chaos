@@ -88,7 +88,7 @@ public:
 public:
     Board(){
         for(int i=0;i<9;i++)
-            Regions.push_back(Region(CountryNames[i]));
+            Regions.push_back(Region(CountryNames[i])); 
     }
     
     
