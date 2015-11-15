@@ -11,4 +11,4 @@ My own project to make digital version of Chaos In The Old World board game as a
 4) Creating client-server interface
 
 
-The two last parts will be completely parallel.
+Two last parts will be completely parallel.
